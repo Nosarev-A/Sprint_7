@@ -1,0 +1,7 @@
+TestCreateExistingCourier.class
+TestLoginCourierWithoutData.class
+TestCreateOrder.class
+TestCreateValidCourier.class
+TestCreateCourierWithoutData.class
+TestLoginValidCourier.class
+TestGetOrdersList.class
