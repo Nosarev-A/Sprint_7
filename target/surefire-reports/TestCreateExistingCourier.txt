@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestCreateExistingCourier
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.36 s <<< FAILURE! - in TestCreateExistingCourier
+courierWithExistingLoginCanNotBeCreated(TestCreateExistingCourier)  Time elapsed: 0.359 s  <<< ERROR!
+java.lang.NullPointerException
+	at TestCreateExistingCourier.courierWithExistingLoginCanNotBeCreated(TestCreateExistingCourier.java:30)
+
